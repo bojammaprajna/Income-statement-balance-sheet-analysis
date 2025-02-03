@@ -13,14 +13,9 @@ Welcome to the **PDF Table Extraction & Summarization** project! This applicatio
 ## 🛠️ Installation
 
 Follow these steps to set up the project locally:
-
-
-1. **🔀 Clone the Repository:**
-   ```bash
-   git clone https://github.com/jitendra-789/Analysing_Income_Statement_with_LLM.git
    ```
 
-2. **📥 Install Required System Dependencies:**
+1. **📥 Install Required System Dependencies:**
 
    > **⚠️ Python Compatibility**: This project requires Python version 3.9 to 3.11 (3.10 recommended). Python 3.13 is not supported by some dependencies.
 
@@ -251,18 +246,6 @@ Contributions are welcome! Please follow these steps to contribute:
    ```bash
    git push origin feature/YourFeature
    ```
-
-5. **Open a Pull Request**
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 📧 Contact
-
-For any inquiries or feedback, please reach out to [Jitendra Kolli](jitendrakolli18@gmail.com).
-
----
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/pdf-2.png" alt="PDF Icon" /> 
